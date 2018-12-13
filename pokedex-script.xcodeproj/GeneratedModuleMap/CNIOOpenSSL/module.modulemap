@@ -1,4 +1,0 @@
-module CNIOOpenSSL {
-    umbrella "/Users/allanvialatte/Developer/poisson-ballon-project/pokedex-script/.build/checkouts/swift-nio-ssl.git--5176796093069270664/Sources/CNIOOpenSSL/include"
-    export *
-}
